@@ -12,7 +12,7 @@
   --boxShadow: 0px 0px 5px 0px rgba(50, 50, 50, 0.32);
 }
 body {
-  background:url(".bg-image/bdayy.jpg");
+  background-color: white;
   font-family: "Lato", sans-serif;
 }
 
